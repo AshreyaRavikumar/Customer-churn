@@ -5,7 +5,7 @@ Generate an HTML report for the CLV & Churn Prediction case study.
 import base64
 from pathlib import Path
 
-OUT_DIR = "/home/fffstanza/Projects/Data Science Hard task"
+OUT_DIR = "/home/fffstanza/Projects/Data Science Hard task/deliverables"
 
 
 def img_to_b64(path):
